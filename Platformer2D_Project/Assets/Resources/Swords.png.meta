@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: ea1ecd44f3a4d44418222767eca600a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 296
+        width: 113
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86727a8b2f3564cae0b5a3373d56ef
+      internalID: 1900712170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 301
+        width: 118
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1151c2b0d64c4eb2c6a34ace9b205
+      internalID: -796503434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 302
+        width: 119
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc827346d2a79b241bd5a1287442f436
+      internalID: -1768692389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 302
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0907adcbdccd44f8530dcb8a93a2c6
+      internalID: -1000340625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a1173beada864ab3304aa0a84498b
+      internalID: 215307983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 245
+        width: 118
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726a7ddc9f056149bd38040071fcf9e
+      internalID: 359153780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 246
+        width: 120
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ab8ab5a6d76346b9f5fbf9cb87a46
+      internalID: -1333464919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 245
+        width: 119
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d428989f9cd50a40a6a466bc2e5e2db
+      internalID: 1211235174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 183
+        width: 125
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da71413c5f5b0124fbedc9040c6b1d49
+      internalID: 1920065751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 189
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6fa2a9fbe83645a3c1e8df9bb3f41
+      internalID: -1409166298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 190
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b9c7882f715145a79aba2955feaaa
+      internalID: 1087270143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 183
+        width: 123
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c13cb7dabdd9e34aaa7ac62cff0f166
+      internalID: 1265028156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 126
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c5061f48d0a041a749ff958330961
+      internalID: -399953203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 131
+        width: 124
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910f5b1050a4af42b8432546cab7233
+      internalID: 970006069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 130
+        width: 126
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede106cc6656b74d9f8739cb3aaec1a
+      internalID: 556886048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 127
+        width: 125
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9179285fba6d146ba853cfef6f3bfd
+      internalID: 1795959294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 126
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d177d17c8b3bb4b82bcaa498ac4667
+      internalID: 1343893933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 71
+        width: 125
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8949f3ccb74fca4285f7dfbeb2b9598
+      internalID: 17756266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 74
+        width: 126
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42542d2e9ebb6479fc0a326d4a4c23
+      internalID: 2099141394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swords-2D-Weapon-Pack2-768x512-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 72
+        width: 126
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18bb74265712b4408297aebd1050d79
+      internalID: 1237496858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_0: 1900712170
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_1: -796503434
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_10: 1087270143
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_11: 1265028156
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_12: -399953203
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_13: 970006069
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_14: 556886048
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_15: 1795959294
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_16: 1343893933
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_17: 17756266
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_18: 2099141394
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_19: 1237496858
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_2: -1768692389
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_3: -1000340625
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_4: 215307983
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_5: 359153780
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_6: -1333464919
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_7: 1211235174
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_8: 1920065751
+      Swords-2D-Weapon-Pack2-768x512-removebg-preview_9: -1409166298
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

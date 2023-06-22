@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: c5adf69fc2e30524a91ada9d7c095ba3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 282
+        width: 196
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45df7e35cbaf4641b98c9b1284b2f6b
+      internalID: -2048756244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 279
+        width: 229
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e84b565917f5b4bba3289ca04d4a64
+      internalID: -549519136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 187
+        width: 217
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964963737c2bb1c4394a40dff7208e65
+      internalID: -232769318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 181
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423293b2a62d6a4586317c9698ed429
+      internalID: 149106321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a3df6c382b534ea3f98f43da2068b
+      internalID: 325313445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 227
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee8beeb045f484db17fef6e4d760ea
+      internalID: -1877945364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 227
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1927d05d266a45a7b852d63a733bb
+      internalID: 453586701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 177
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8288e9e5161bb904bb7c6efc21f81563
+      internalID: -434396284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 99
+        width: 114
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8727076c2ceb17346aa044c66bf5fc30
+      internalID: 257053330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 183
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87d0062c1efbc429a13c19939b0238
+      internalID: -969531920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 177
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04eac1b45c68484e9efaf3047746930
+      internalID: -1961775286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 99
+        width: 215
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080ef4c3ab42b145a7ea282405f5494
+      internalID: 2069710877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465b4cc8e6ae13458e560cc70742495
+      internalID: 21506300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 52
+        width: 217
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceda383eb0410a429e3de68ba852041
+      internalID: -2061681408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 52
+        width: 189
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b15fac61b16534196145b8b5a02eb7
+      internalID: -605713012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_0: -2048756244
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_1: -549519136
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_10: -1961775286
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_11: 2069710877
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_12: 21506300
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_13: -2061681408
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_14: -605713012
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_2: -232769318
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_3: 149106321
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_4: 325313445
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_5: -1877945364
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_6: 453586701
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_7: -434396284
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_8: 257053330
+      yasbak_2d_game_art_no_background_tileset_016ca6fd-8cbc-4147-af66-f78fa834ecd5_9: -969531920
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
