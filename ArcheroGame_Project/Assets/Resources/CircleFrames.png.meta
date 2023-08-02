@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 04def2c944ae82247b29a16fdc52f348
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 256
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cd07b0dd5b5ee47a864d4eb5e786dd
+      internalID: 1782521696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 254
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85868f7db7e67cd4a8ef812382d16ac0
+      internalID: -1390373663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 258
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59265e4c6ef25ff4894654d131e70815
+      internalID: -983122204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 254
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa3f7b47b8138645bb4458a10e9dab5
+      internalID: -1327035692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 258
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771ddd051023eb46af37714a02aff89
+      internalID: -384759603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55204474d95efe4f90a4b8c18e66709
+      internalID: 378403312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce56846bf2c8bae40a6fc9ebfa03a4fb
+      internalID: 1752016260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 137
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff51b95d5647304f8a5a5167fe1eb75
+      internalID: -644930210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3769a5bb7f1c640ae9a64d93bc7cf4
+      internalID: -653166393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 139
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2fe3669bf7a94b900d15ff95a49a4
+      internalID: 1162949233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 144
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4687c387a5971f241a1c920698876d9e
+      internalID: -1277280926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 132
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab08b0a018e62498fecf4413d7f410
+      internalID: -2042143368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0e4b33b8fc799468ed6e40207e4d2a
+      internalID: -121236308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cd53bd662e3b34ab721a003e276f02
+      internalID: 1171348993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629257cf3bf1f58469747df93bdc2552
+      internalID: 852428752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 30
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43947528f23796147a31d0c8edf7bb3e
+      internalID: -853691434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 24
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1cb04ac512a1e4295e56d02f706b6d
+      internalID: -1411491792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 30
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f193ebfd2bb8499d2269ccd689764
+      internalID: -1834152853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 27
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df353214766110f4fabb133706a28884
+      internalID: -1168121835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6158a45f8d317f84bbeb99078a702d7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_0: 1782521696
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_1: -1390373663
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_10: -1277280926
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_11: -2042143368
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_12: -121236308
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_13: 1171348993
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_14: 852428752
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_15: -853691434
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_16: -1411491792
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_17: -1834152853
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_18: -1168121835
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_2: -983122204
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_3: -1327035692
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_4: -384759603
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_5: 378403312
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_6: 1752016260
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_7: -644930210
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_8: -653166393
+      circle-frames-abstract-round-forms-for-game-design-ui-templates-vector-fantasy-borders-for-design-projects_146957-1413-removebg-preview_9: 1162949233
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
