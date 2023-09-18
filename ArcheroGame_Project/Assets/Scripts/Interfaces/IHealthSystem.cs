@@ -2,8 +2,9 @@ using System;
 
 public interface IHealthSystem
 {   
-    float MaxHealth { get; }
+    float BaseMaxHealth { get; }
     float CurrentHealth { get; }
-
-    public event Action<float, float> OnHealthChanged;
+    void TakeDamage(float damage);
+    void Die();
+    public event Action<float, float, bool> OnHealthChanged;
 }
